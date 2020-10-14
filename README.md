@@ -1,1 +1,1 @@
-gnuhealth
+Trytond client to access gnuhealth
